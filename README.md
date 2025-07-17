@@ -43,4 +43,4 @@ I'm a full-stack web developer who enjoys solving real-world problems with code.
 ### 🌐 Let's Connect
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/javid-ibrahim-0903392b1/)
-- 📫 Email: your.email@example.com
+- 📫 Email: javidibrahim5659@gmail.com
