@@ -45,7 +45,7 @@ I'm a full-stack web developer who enjoys solving real-world problems with code.
 
 ### 📊 GitHub Stats
 
-![Javid Ibrahim](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&theme=default)
+![Javid Ibrahim](https://github-readme-stats.vercel.app/api?username=your-javidcp&show_icons=true&hide_title=true&theme=default)
 
 ---
 
