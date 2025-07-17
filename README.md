@@ -2,14 +2,6 @@
 
 I'm a full-stack web developer who enjoys solving real-world problems with code. I love working on frontend UI/UX, building powerful backend APIs, and deploying apps that actually get used. I'm always exploring new technologies, best practices, and clean code.
 
----
-
-### 🚀 What I Do
-- 🌱 Learning: **Advanced state management & DevOps automation**
-- 🧠 Interested in: Scalable web apps, real-time apps, and modern architecture
-- 🛠️ Open to: Collaborations, open-source contributions, freelance opportunities
-
----
 
 ### 🧰 Tech Stack
 
@@ -22,7 +14,6 @@ I'm a full-stack web developer who enjoys solving real-world problems with code.
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=white&style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
-![Context API](https://img.shields.io/badge/-Context_API-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 
 #### 🖥️ Backend
